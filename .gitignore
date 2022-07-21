@@ -1,3 +1,9 @@
 node_modules
+hooks
+info
+objects
+refs
+HEAD
+description
 .env
 config.json
