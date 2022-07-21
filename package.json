@@ -1,0 +1,36 @@
+{
+  "name": "anygames",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanhiggins0/anygames.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "node.js",
+    "games",
+    "utility"
+  ],
+  "author": "Evan Higgins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanhiggins0/anygames/issues"
+  },
+  "homepage": "https://github.com/evanhiggins0/anygames#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "discord-api-types": "^0.36.2",
+    "discord.js": "^14.0.3",
+    "typescript": "^4.7.4"
+  }
+}
